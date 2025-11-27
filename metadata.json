@@ -1,21 +1,18 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "JSON: Arrays",
+    "slug": "json-arrays",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "json"
     ],
     "duration": 0,
     "prerequisites": [
-        "",
-        ""
+        "json-introduction",
+        "json-data-types"
     ],
     "related": [
-        "",
-        ""
+        "json-objects"
     ]
 }
